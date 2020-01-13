@@ -1,0 +1,17 @@
+alefragnani.project-manager
+bmewburn.vscode-intelephense-client
+CoenraadS.bracket-pair-colorizer
+EditorConfig.EditorConfig
+esbenp.prettier-vscode
+formulahendry.auto-close-tag
+hnw.vscode-auto-open-markdown-preview
+ICS.japanese-proofreading
+ionutvmi.path-autocomplete
+liximomo.sftp
+mosapride.zenkaku
+ms-vsliveshare.vsliveshare
+octref.vetur
+PKief.material-icon-theme
+ryu1kn.partial-diff
+shardulm94.trailing-spaces
+VisualStudioExptTeam.vscodeintellicode
